@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.collapse ul li a {
+  color: rgb(211, 202, 202) !important;
+}
+.collapse ul li a:hover {
+  color: white !important;
+  cursor: pointer;
+}
+
+.carousel-item img {
+  height: 600px;
+}
+
+.about_section span {
+  width: 60px;
+  height: 2px;
+  background-color: black;
+}
+
+.team_section span {
+  width: 60px;
+  height: 2px;
+  background-color: black;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+.card:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.contact span {
+  width: 60px;
+  height: 2px;
+  background-color: black;
+}
+
+.input-group input {
+  width: 250px !important;
+}
+
+.contact_area li {
+  list-style-type: none;
+}/*# sourceMappingURL=style.css.map */
